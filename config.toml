@@ -86,11 +86,11 @@ googleAnalytics = ""
 
   # Team section
   [params.team]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
-    title = "Participants"
-    text = "We are assembling an exciting team of developers and enthusiastic users representing academia, industry, government, and various open source projects."
+    title = "Organizers"
+    text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
@@ -102,17 +102,33 @@ googleAnalytics = ""
       img = "angela-li.jpg"
       twitter = "CivicAngela"
       github = "angela-li"
-      url = "http://www.angela-li.github.io"
+      url = "https://www.angela-li.github.io"
+
+    [[params.team.members]]
+      name = "Emily Riederer"
+      position = "Capital One"
+      img = "emily-riederer.jpg"
+      twitter = "CivicAngela"
+      github = "EmilyRiederer"
+      url = "https://www.emilyriederer.netlify.com"
       
+    [[params.team.members]]
+      name = "Alex Hayes"
+      position = "UW-Madison"
+      img = "alex-hayes.jpeg"
+      twitter = "alexpghayes"
+      github = "alexpghayes"
+      url = "https://www.alexpghayes.com"
+
 # Join us section
   [params.joinus]
-  enable=true
+  enable = true
   title = "Join us!"
   text = "Applications for the Chicago R Unconference will open in early January 2019. Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. Stay tuned for updates!"
 
 # Venue section
   [params.venue]
-  enable=true
+  enable = true
   title = "Venue"
   text = "The event will be hosted at the [Center for Spatial Data Science](https://spatial.uchicago.edu) at the University of Chicago (5735 S Ellis Ave, Rooms 240 and 236). Please note that the research center is located within Searle Chemical Laboratory. \n\nPaid parking can be found at [Campus North Garage](https://maps.uchicago.edu//location/campus-north-parking-structure-parking/) and [Young Parking Lot](https://maps.uchicago.edu//location/young-parking-lot/), but we encourage you to take public transit to campus in order to save on parking costs."
   map = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2974.751615491931!2d-87.60315248456163!3d41.790566379229254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e293e7c052a6d%3A0x760f5c0c7107088f!2sThe+University+of+Chicago+Computation+Institute!5e0!3m2!1sen!2sus!4v1545085956300"

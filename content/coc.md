@@ -1,14 +1,14 @@
-# Chicago R Conference Code of Conduct
+# Chicago R Unconference Code of Conduct
 
-The organizers of the Chicago R Unconference are committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Unconf participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.
+The organizers of the Chicago R Unconference are committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Unconference participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.
 
-This Code of Conduct applies to all participants, including organisers and applies to all modes of interaction, both in-person and online, including Chicago R Unconf GitHub project repos, Slack channels and Twitter.
+This Code of Conduct applies to all participants, including organisers and applies to all modes of interaction, both in-person and online, including Chicago R Unconference GitHub project repos, Slack channels and Twitter.
 
-Chicago R Unconf participants agree to:
+Chicago R Unconference participants agree to:
 
   * Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
   * Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; unwelcome sexual attention; deliberate 'outing' of any aspect of a person's identity without their consent; misgendering or use of 'dead' or rejected names; and publication of non-harassing private communication.
-  * Take care of each other. Alert an unconf organizer if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+  * Take care of each other. Alert an unconference organizer if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
 ## Need Help?
 
