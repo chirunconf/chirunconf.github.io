@@ -761,6 +761,11 @@ section h3.section-subheading {
 .team-member p {
     margin-top: 0;
 }
+
+.team-member a {
+  text-decoration: none;
+}
+
 .team-member h3 {
     text-transform: none;
     font-weight: 600;

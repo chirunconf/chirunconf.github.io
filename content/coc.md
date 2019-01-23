@@ -2,7 +2,7 @@
 
 The organizers of the Chicago R Unconference are committed to providing a welcoming and harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Unconference participants violating these rules may be sanctioned or expelled from the event at the discretion of the conference organizers.
 
-This Code of Conduct applies to all participants, including organisers and applies to all modes of interaction, both in-person and online, including Chicago R Unconference GitHub project repos, Slack channels and Twitter.
+This Code of Conduct applies to all participants, including organisers and applies to all modes of interaction, both in-person and online, including Chicago R Unconference GitHub project repos, Slack channels and Twitter. 
 
 Chicago R Unconference participants agree to:
 
@@ -12,7 +12,7 @@ Chicago R Unconference participants agree to:
 
 ## Need Help?
 
-If you experience or witness unacceptable behavior or have any other concerns, please email us at chirunconf [at] gmail.com or reach out to an event organizer at the event.
+If you experience or witness unacceptable behavior or have any other concerns, please report Code of Conduct violations to event organizers Angela Li, Emily Riederer, or Alex Hayes (contact information on home page). You can also email all three of us at chirunconf [at] gmail.com.
 
 If any attendee engages in harassing behavior, organizers can take action they deem appropriate, including but not limited to warning the offender or asking the offender to leave the unconference. (If you feel you have been unfairly accused of violating this code of conduct, you should report it with a concise description of your grievance.)
 

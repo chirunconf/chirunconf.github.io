@@ -124,7 +124,7 @@ googleAnalytics = ""
   [params.joinus]
   enable = true
   title = "Join us!"
-  text = "Applications for the Chicago R Unconference will open in early January 2019. Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. Stay tuned for updates!"
+  text = "Applications for the Chicago R Unconference will open in late January 2019. Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. Stay tuned for updates!"
 
 # Venue section
   [params.venue]
