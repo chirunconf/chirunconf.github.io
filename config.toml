@@ -124,7 +124,7 @@ googleAnalytics = ""
   [params.joinus]
   enable = true
   title = "Join us!"
-  text = "Applications for the Chicago R Unconference will open in late January 2019. Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. Stay tuned for updates!"
+  text = "Applications for the Chicago R Unconference are now open! Please [apply here](https://docs.google.com/forms/d/1Vc8jHxXlZ_ZDzRNFX5eX58avS66fA_ayX1p3FyfO_e4). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 16, 2019**."
 
 # Venue section
   [params.venue]
@@ -141,11 +141,22 @@ googleAnalytics = ""
       # Possibility to center items
       #center = true
       title = "Sponsors"
-      text = "We are currently looking for sponsors for this year's event. If your organization would like to sponsor the Unconference, please email Angela at chirunconf [at] gmail com for more information.\n\n Thanks to the Center for Spatial Data Science for providing space for the event!"
+      text = "Thank you to our sponsors for this year's event! If your organization would also like to sponsor the unconference, please email chirunconf [at] gmail com for more information."
 
       # All the clients' logos are stored under 'static/img/sponsors'.
       # Replace them with your sponsors's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
+      [[params.sponsors]]
+        logo = "center-for-spatial-data-science.png"
+        link = "https://spatial.uchicago.edu/"
+        
+      [[params.sponsors]]
+        logo = "microsoft-azure.png"
+        link = "https://www.r-consortium.org/"
+      
+      [[params.sponsors]]
+        logo = "rstudio-logo.png"
+        link = "https://rstudio.com"
 
   # Contact section
   [params.contact]
