@@ -89,7 +89,7 @@ googleAnalytics = ""
     enable = true
     # Possibility to center items
     #center = true
-    title = "Organizers"
+    title = "Organizers and Mentors"
     text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors."
 
     # All team member's pictures are stored under 'static/img/team'.
@@ -108,7 +108,7 @@ googleAnalytics = ""
       name = "Emily Riederer"
       position = "Capital One"
       img = "emily-riederer.jpg"
-      twitter = "CivicAngela"
+      twitter = "EmilyRiederer"
       github = "EmilyRiederer"
       url = "https://www.emilyriederer.netlify.com"
       
@@ -119,7 +119,63 @@ googleAnalytics = ""
       twitter = "alexpghayes"
       github = "alexpghayes"
       url = "https://www.alexpghayes.com"
+      
+    [[params.team.members]]
+      name = "Amanda Dobbyn"
+      position = "Earlybird Software"
+      img = "amanda-dobbyn.jpeg"
+      twitter = "dobbleobble"
+      github = "aedobbyn"
+      url = "https://dobb.ae"
+      
+    [[params.team.members]]
+      name = "David Smith"
+      position = "Microsoft"
+      img = "david-smith.jpg"
+      twitter = "revodavid"
+      github = "revodavid"
+      url = "http://blog.revolutionanalytics.com"
 
+    [[params.team.members]]
+      name = "Jim Hester"
+      position = "RStudio"
+      img = "jim-hester.jpg"
+      twitter = "jimhester_"
+      github = "jimhester"
+      url = "https://www.jimhester.com"
+
+    [[params.team.members]]
+      name = "Will Landau"
+      position = "Eli Lilly and Company"
+      img = "will-landau.jpg"
+      twitter = "wmlandau"
+      github = "wlandau"
+      url = "https://wlandau.github.io"
+      
+    [[params.team.members]]
+      name = "Sam Tyner"
+      position = "Iowa State University"
+      img = "sam-tyner.png"
+      twitter = "sctyner"
+      github = "sctyner"
+      url = "https://sctyner.github.io"
+
+    [[params.team.members]]
+      name = "Karl Broman"
+      position = "Biostatistics & Medical Informatics, UW-Madison"
+      img = "karl-broman.jpg"
+      twitter = "kwbroman"
+      github = "kwbroman"
+      url = "https://kbroman.org"
+
+    [[params.team.members]]
+      name = "John Blischak"
+      position = "Department of Human Genetics, UChicago"
+      img = "john-blischak.jpg"
+      twitter = "jdblischak"
+      github = "jdblischak"
+      url = "https://jdblischak.com/"
+      
 # Join us section
   [params.joinus]
   enable = true
