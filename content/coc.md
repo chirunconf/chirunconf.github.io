@@ -12,7 +12,7 @@ Chicago R Unconference participants agree to:
 
 ## Need Help?
 
-If you experience or witness unacceptable behavior or have any other concerns, please report Code of Conduct violations to event organizers Angela Li, Emily Riederer, or Alex Hayes (contact information on home page). You can also email all three of us at chirunconf [at] gmail.com.
+If you experience or witness unacceptable behavior or have any other concerns, please report Code of Conduct violations to event organizers Angela Li, Emily Riederer, or Alex Hayes. You can email the three of us at chirunconf [at] gmail.com.
 
 If any attendee engages in harassing behavior, organizers can take action they deem appropriate, including but not limited to warning the offender or asking the offender to leave the unconference. (If you feel you have been unfairly accused of violating this code of conduct, you should report it with a concise description of your grievance.)
 

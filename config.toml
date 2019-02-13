@@ -89,7 +89,7 @@ googleAnalytics = ""
     enable = true
     # Possibility to center items
     #center = true
-    title = "Organizers"
+    title = "Organizers and Mentors"
     text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors."
 
     # All team member's pictures are stored under 'static/img/team'.
@@ -108,7 +108,7 @@ googleAnalytics = ""
       name = "Emily Riederer"
       position = "Capital One"
       img = "emily-riederer.jpg"
-      twitter = "CivicAngela"
+      twitter = "EmilyRiederer"
       github = "EmilyRiederer"
       url = "https://www.emilyriederer.netlify.com"
       
@@ -119,12 +119,68 @@ googleAnalytics = ""
       twitter = "alexpghayes"
       github = "alexpghayes"
       url = "https://www.alexpghayes.com"
+      
+    [[params.team.members]]
+      name = "Amanda Dobbyn"
+      position = "Earlybird Software"
+      img = "amanda-dobbyn.jpeg"
+      twitter = "dobbleobble"
+      github = "aedobbyn"
+      url = "https://dobb.ae"
+      
+    [[params.team.members]]
+      name = "David Smith"
+      position = "Microsoft"
+      img = "david-smith.jpg"
+      twitter = "revodavid"
+      github = "revodavid"
+      url = "http://blog.revolutionanalytics.com"
 
+    [[params.team.members]]
+      name = "Jim Hester"
+      position = "RStudio"
+      img = "jim-hester.jpg"
+      twitter = "jimhester_"
+      github = "jimhester"
+      url = "https://www.jimhester.com"
+
+    [[params.team.members]]
+      name = "Will Landau"
+      position = "Eli Lilly and Company"
+      img = "will-landau.jpg"
+      twitter = "wmlandau"
+      github = "wlandau"
+      url = "https://wlandau.github.io"
+      
+    [[params.team.members]]
+      name = "Sam Tyner"
+      position = "Iowa State University"
+      img = "sam-tyner.png"
+      twitter = "sctyner"
+      github = "sctyner"
+      url = "https://sctyner.github.io"
+
+    [[params.team.members]]
+      name = "Karl Broman"
+      position = "Biostatistics & Medical Informatics, UW-Madison"
+      img = "karl-broman.jpg"
+      twitter = "kwbroman"
+      github = "kwbroman"
+      url = "https://kbroman.org"
+
+    [[params.team.members]]
+      name = "John Blischak"
+      position = "Department of Human Genetics, UChicago"
+      img = "john-blischak.jpg"
+      twitter = "jdblischak"
+      github = "jdblischak"
+      url = "https://jdblischak.com/"
+      
 # Join us section
   [params.joinus]
   enable = true
   title = "Join us!"
-  text = "Applications for the Chicago R Unconference will open in late January 2019. Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. Stay tuned for updates!"
+  text = "Applications for the Chicago R Unconference are now open! Please [apply here](https://docs.google.com/forms/d/1Vc8jHxXlZ_ZDzRNFX5eX58avS66fA_ayX1p3FyfO_e4). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 16, 2019**."
 
 # Venue section
   [params.venue]
@@ -141,11 +197,22 @@ googleAnalytics = ""
       # Possibility to center items
       #center = true
       title = "Sponsors"
-      text = "We are currently looking for sponsors for this year's event. If your organization would like to sponsor the Unconference, please email Angela at chirunconf [at] gmail com for more information.\n\n Thanks to the Center for Spatial Data Science for providing space for the event!"
+      text = "Thank you to our sponsors for this year's event! If your organization would also like to sponsor the unconference, please email chirunconf [at] gmail com for more information."
 
       # All the clients' logos are stored under 'static/img/sponsors'.
       # Replace them with your sponsors's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
+      [[params.sponsors]]
+        logo = "center-for-spatial-data-science.png"
+        link = "https://spatial.uchicago.edu/"
+        
+      [[params.sponsors]]
+        logo = "microsoft-azure.png"
+        link = "https://www.r-consortium.org/"
+      
+      [[params.sponsors]]
+        logo = "rstudio-logo.png"
+        link = "https://rstudio.com"
 
   # Contact section
   [params.contact]
