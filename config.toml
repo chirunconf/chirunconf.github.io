@@ -42,7 +42,7 @@ googleAnalytics = ""
 
   # Navigation
   [params.navigation]
-    brand = "rOpenSci"
+    brand = "Chicago R Unconference"
     # Optional logo as brand stored in img/
     logo = "logo.png"
     about = "What"
@@ -175,6 +175,239 @@ googleAnalytics = ""
       twitter = "jdblischak"
       github = "jdblischak"
       url = "https://jdblischak.com/"
+    
+    [[params.team.members]]
+      name = "Mariah Farbo"
+      position = "UChicago Crime Lab"
+      img = "mariah-farbo.jpg"
+      url = "https://www.mariahfarbo.com/"
+
+    [[params.team.members]]
+      name = "Amir Kazi"
+      position = "Chicago Mayor's Office"
+      img = "amir-kazi.jpg"
+      twitter = "AmirAkhterKazi"
+      github = "amirkazi"
+
+    [[params.team.members]]
+      name = "Deblina Mukherjee"
+      position = "UChicago"
+      img = "deblina-mukherjee.jpeg"
+      twitter = "deblnia"
+      github = "deblnia"
+
+    [[params.team.members]]
+      name = "Mauro Lepore"
+      position = "Smithsonian"
+      img = "mauro-lepore.jpg"
+      twitter = "mauro_lepore"
+      github = "maurolepore"
+      url = "https://maurolepore.github.io/" 
+      
+    [[params.team.members]]
+      name = "Katherine Simeon"
+      position = "Northwestern University, R-Ladies Chicago"
+      img = "katherine-simeon.jpg"
+      twitter = "kitkatbar429"
+      github = "katherinesimeon"
+
+    [[params.team.members]]
+      name = "Natalie Jorion"
+      position = "Pearson VUE"
+      img = "natalie-jorion.jpg"
+      url = "https://nataliejorion.com"
+
+    [[params.team.members]]
+      name = "Wei Yang Tham"
+      position = "Ohio State"
+      img = "wei-yang-tham.jpeg"
+      twitter = "wytham88"
+      github = "weiyangtham"
+      url = "https://wytham.rbind.io/"
+
+    [[params.team.members]]
+      name = "Florencia Mangini"
+      position = "Alcatel-Lucent"
+      img = "florencia-mangini.jpeg"
+      twitter = "manginiflor"
+      github = "frm1789"
+      url = "https://thinkingondata.com"
+
+    [[params.team.members]]
+      name = "Joshua Goldberg"
+      position = "Nuveen"
+      img = "josh-goldberg.jpeg"
+      twitter = "goldbergdata"
+      github = "goldbergdata"
+
+    [[params.team.members]]
+      name = "William Bonnell"
+      position = "NORC, UChicago"
+      img = "william-bonnell.jpeg"
+      twitter = "_willdebras"
+
+    [[params.team.members]]
+      name = "Sharla Gelfand"
+      position = "College of Nurses of Ontario"
+      img = "sharla-gelfand.jpeg"
+      twitter = "sharlagelfand"
+      github = "sharlagelfand"
+      url = "https://sharla.party/" 
+      
+    [[params.team.members]]
+      name = "Caroline Kinnen"
+      position = "KIPP Chicago"
+      img = "caroline-kinnen.jpeg"
+
+    [[params.team.members]]
+      name = "Smitha Shivakumar"
+      position = "PPM America, Inc."
+      img = "smitha-shivakumar.jpeg"
+      twitter = "SmithaShivakuma"
+      github = "SmithaShivakumar"
+
+    [[params.team.members]]
+      name = "Pierre DeBois"
+      position = "Zimana"
+      img = "pierre-debois.jpg"
+      twitter = "zimanaanalytics"
+      github = "zimana"      
+
+    [[params.team.members]]
+      name = "Chase Clark"
+      position = "UIC"
+      img = "chase-clark.jpg"
+      twitter = "ChasingMicrobes"
+      github = "chasemc"
+      url = "chasemc.github.io"
+
+    [[params.team.members]]
+      name = "Zaynaib Giwa"
+      position = "R-Ladies Chicago"
+      img = "zaynaib-giwa.png"
+      twitter = "AmazingSpeciali"
+      github = "Zaynaib"
+      url = "https://medium.com/@zaynaibg"
+
+    [[params.team.members]]
+      name = "Eric Nantz"
+      position = "The R Podcast"
+      img = "eric-nantz.jpg"
+      twitter = "theRcast"
+      github = "rpodcast"
+      url = "https://r-podcast.org"
+      
+    [[params.team.members]]
+      name = "Shengying Chen"
+      position = "World Financial Group"
+      img = "shengying-chen.jpeg"
+
+    [[params.team.members]]
+      name = "Kanishka Misra"
+      position = "Purdue"
+      img = "kanishka-misra.jpg"
+      twitter = "iamasharkskin"
+      github = "kanishkamisra"
+      url = "https://kanishka.xyz"
+
+    [[params.team.members]]
+      name = "Kristi Angel"
+      position = "Groupon"
+      img = "kristi-angel.jpg"
+      github = "kangel09"
+
+    [[params.team.members]]
+      name = "Indrajeet Patil"
+      position = "Harvard"
+      img = "indrajeet-patil.jpg"
+      twitter = "patilindrajeets"
+      github = "IndrajeetPatil"
+      url = "https://sites.google.com/site/indrajeetspatilmorality/"
+
+    [[params.team.members]]
+      name = "Caroline Williams"
+      position = "R-Ladies Chicago"
+      img = "caroline-williams.jpg"
+      twitter = "ckwill36"
+      github = "ckwms63"
+      url = "https://ASGchicago.github.io"
+
+    [[params.team.members]]
+      name = "Ben Listyg"
+      position = "Wyzant"
+      img = "ben-listyg.jpg"
+      twitter = "benlistyg"
+      github = "blistyg"
+      url = "https://blistyg.github.io/"
+
+    [[params.team.members]]
+      name = "Tristan Mahr"
+      position = "Wisconsin Intelligibility"
+      img = "tristan-mahr.jpg"
+      twitter = "tjmahr"
+      github = "tjmahr"
+      url = "https://www.tjmahr.com/"
+
+    [[params.team.members]]
+      name = "Abigail Smith"
+      position = "Northwestern University"
+      img = "abigail-smith.jpg"
+      twitter = "flabbysmith"
+      github = "abbylsmith"
+      url = "https://abbylsmith.github.io/"
+
+    [[params.team.members]]
+      name = "Jorge Argueta"
+      position = "GPShopper"
+      img = "jorge-argueta.jpeg"
+      twitter = "jorgeargueta"
+      github = "ArgData"
+
+    [[params.team.members]]
+      name = "Ben Crary"
+      position = "LimnoTech"
+      img = "ben-crary.jpg"
+      twitter = "crary016"
+      github = "benjamincrary"
+
+    [[params.team.members]]
+      name = "Sydney Purdue"
+      position = ""
+      img = "logo.png"
+      github = "skpurdue"
+      url = "sydneykpurdue.wordpress.com"
+
+    [[params.team.members]]
+      name = "Annie Wang"
+      position = ""
+      img = "logo.png"
+      github = "anniew"
+
+    [[params.team.members]]
+      name = "Auden Krauska"
+      position = ""
+      img = "logo.png"
+      twitter = "krauskae"
+      github = "krauskae"
+
+    [[params.team.members]]
+      name = "Charlotte Mack"
+      position = "R-Ladies Chicago"
+      img = "logo.png"
+      github = "cymack"
+      url = "https://rpubs.com/cymack"
+
+    [[params.team.members]]
+      name = "Clara Wang"
+      position = "Civis Analytics"
+      img = "logo.png"
+      github = "cwang23"
+      url = "https://froodypol.wordpress.com/"
+
+    [[params.team.members]]
+      name = "Belinda Chen"
+      position = ""
+      img = "logo.png"
       
 # Join us section
   [params.joinus]
