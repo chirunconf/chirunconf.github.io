@@ -82,7 +82,7 @@ googleAnalytics = ""
    [params.about]
     enable = true
     title = "Launching the Chicago R Unconference"
-    text = "Inspired by the [rOpenSci](https://ropensci.org/) [unconference series](http://unconf18.ropensci.org/), we're putting together a Chicago-based unconference to encourage open source contribution and development in the Chicago R community. Our goal is to encourage diverse groups to develop open source packages and to contribute to the larger R community. We plan to bring together attendees from industry, academia, government, nonprofits, and more. We'll spend two days collaborating with each other, building R packages and learning from each other.\n\n Not sure how this works? No worries, that probably means you should attend this event! Check out [writeups](https://ropensci.org/blog/2017/10/31/ozunconf2017/) [of](https://ropensci.org/blog/2017/11/17/unconf-sixtips/) [previous](https://ropensci.org/blog/2018/06/05/unconf18/) [unconferences](https://blog.revolutionanalytics.com/2018/05/reflections-on-the-ropensci-unconference.html) for details on how this generally works, and take a look at [past](https://github.com/ropensci/unconf18/issues) [Github](https://github.com/ropensci/ozunconf18/issues/) [issues](https://github.com/ropensci/unconf17) to get a sense of the projects people work on. Projects might include creating new packages from scratch, writing new vignettes, or closing issues on existing packages. We plan to have something for everyone to contribute, even if you consider yourself a beginner! \n\n Because we want our attendees to have a safe, enjoyable, and friendly experience at the unconf, we have a [code of conduct](/coc) that we encourage you to read."
+    text = "Inspired by the [rOpenSci](https://ropensci.org/) [unconference series](http://unconf18.ropensci.org/), we're putting together a Chicago-based unconference to encourage open source contribution and development in the Chicago R community. Our goal is to encourage diverse groups to develop open source packages and to contribute to the larger R community. We plan to bring together attendees from industry, academia, government, nonprofits, and more. We'll spend two days collaborating with each other, building R packages and learning from each other.\n\n Not sure how this works? No worries, that probably means you should attend this event! Check out [writeups](https://ropensci.org/blog/2017/10/31/ozunconf2017/) [of](https://ropensci.org/blog/2017/11/17/unconf-sixtips/) [previous](https://ropensci.org/blog/2018/06/05/unconf18/) [unconferences](https://blog.revolutionanalytics.com/2018/05/reflections-on-the-ropensci-unconference.html) for details on how this generally works, and take a look at [past](https://github.com/ropensci/unconf18/issues) [Github](https://github.com/ropensci/ozunconf18/issues/) [issues](https://github.com/ropensci/unconf17) to get a sense of the projects people work on. Projects might include creating new packages from scratch, writing new vignettes, or closing issues on existing packages. We plan to have something for everyone to contribute, even if you consider yourself a beginner! \n\n Because we want our attendees to have a safe, enjoyable, and friendly experience at the unconf, we have a [code of conduct](/coc) that we encourage you to read.  \n\n Additionally, you can find the Github repo for this year's #chirunconf [here](https://github.com/chirunconf/chirunconf19)."
 
   # Team section
   [params.team]
@@ -90,14 +90,14 @@ googleAnalytics = ""
     # Possibility to center items
     #center = true
     title = "Participants"
-    text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors."
+    text = "Our team is dedicated to inspiring beginners and those new to open source to contribute to the R community. We've worked in industry and academia alike, and we believe that open source is at its best when it draws from diverse contributors. \n \n Note: Mentors for this event are denoted with an asterisk."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     
     [[params.team.members]]
-      name = "Angela Li"
+      name = "Angela Li*"
       position = "Center for Spatial Data Science, UChicago"
       img = "angela-li.jpg"
       twitter = "CivicAngela"
@@ -105,7 +105,7 @@ googleAnalytics = ""
       url = "https://www.angela-li.github.io"
 
     [[params.team.members]]
-      name = "Emily Riederer"
+      name = "Emily Riederer*"
       position = "Capital One"
       img = "emily-riederer.jpg"
       twitter = "EmilyRiederer"
@@ -113,7 +113,7 @@ googleAnalytics = ""
       url = "https://www.emilyriederer.netlify.com"
       
     [[params.team.members]]
-      name = "Alex Hayes"
+      name = "Alex Hayes*"
       position = "UW-Madison"
       img = "alex-hayes.jpeg"
       twitter = "alexpghayes"
@@ -121,7 +121,7 @@ googleAnalytics = ""
       url = "https://www.alexpghayes.com"
       
     [[params.team.members]]
-      name = "Amanda Dobbyn"
+      name = "Amanda Dobbyn*"
       position = "Earlybird Software"
       img = "amanda-dobbyn.jpeg"
       twitter = "dobbleobble"
@@ -129,7 +129,7 @@ googleAnalytics = ""
       url = "https://dobb.ae"
       
     [[params.team.members]]
-      name = "David Smith"
+      name = "David Smith*"
       position = "Microsoft"
       img = "david-smith.jpg"
       twitter = "revodavid"
@@ -137,7 +137,7 @@ googleAnalytics = ""
       url = "http://blog.revolutionanalytics.com"
 
     [[params.team.members]]
-      name = "Jim Hester"
+      name = "Jim Hester*"
       position = "RStudio"
       img = "jim-hester.jpg"
       twitter = "jimhester_"
@@ -145,7 +145,7 @@ googleAnalytics = ""
       url = "https://www.jimhester.com"
 
     [[params.team.members]]
-      name = "Will Landau"
+      name = "Will Landau*"
       position = "Eli Lilly and Company"
       img = "will-landau.jpg"
       twitter = "wmlandau"
@@ -153,7 +153,7 @@ googleAnalytics = ""
       url = "https://wlandau.github.io"
       
     [[params.team.members]]
-      name = "Sam Tyner"
+      name = "Sam Tyner*"
       position = "Iowa State University"
       img = "sam-tyner.png"
       twitter = "sctyner"
@@ -161,7 +161,7 @@ googleAnalytics = ""
       url = "https://sctyner.github.io"
 
     [[params.team.members]]
-      name = "Karl Broman"
+      name = "Karl Broman*"
       position = "Biostatistics & Medical Informatics, UW-Madison"
       img = "karl-broman.jpg"
       twitter = "kwbroman"
@@ -169,7 +169,7 @@ googleAnalytics = ""
       url = "https://kbroman.org"
 
     [[params.team.members]]
-      name = "John Blischak"
+      name = "John Blischak*"
       position = "Department of Human Genetics, UChicago"
       img = "john-blischak.jpg"
       twitter = "jdblischak"
@@ -364,6 +364,20 @@ googleAnalytics = ""
       github = "ArgData"
 
     [[params.team.members]]
+      name = "Clara Wang"
+      position = "Civis Analytics"
+      img = "clara-wang.jpg"
+      github = "cwang23"
+      url = "https://froodypol.wordpress.com/"
+
+    [[params.team.members]]
+      name = "Auden Krauska"
+      position = "UW-Madison"
+      img = "auden-krauska.jpg"
+      twitter = "krauskae"
+      github = "krauskae"
+
+    [[params.team.members]]
       name = "Ben Crary"
       position = "LimnoTech"
       img = "ben-crary.jpg"
@@ -371,24 +385,29 @@ googleAnalytics = ""
       github = "benjamincrary"
 
     [[params.team.members]]
-      name = "Sydney Purdue"
+      name = "Belinda Chen"
       position = ""
+      img = "belinda-chen.jpg"
+
+    [[params.team.members]]
+      name = "Justin Shea"
+      position = "Roosevelt University"
+      img = "justin-shea.jpg"
+      github = "JustinMShea"
+      twitter = "justinmshea"
+
+    [[params.team.members]]
+      name = "Sydney Purdue"
+      position = "R-Ladies Chicago"
       img = "logo.png"
       github = "skpurdue"
       url = "sydneykpurdue.wordpress.com"
 
     [[params.team.members]]
       name = "Annie Wang"
-      position = ""
+      position = "R-Ladies Chicago"
       img = "logo.png"
       github = "anniew"
-
-    [[params.team.members]]
-      name = "Auden Krauska"
-      position = ""
-      img = "logo.png"
-      twitter = "krauskae"
-      github = "krauskae"
 
     [[params.team.members]]
       name = "Charlotte Mack"
@@ -396,22 +415,10 @@ googleAnalytics = ""
       img = "logo.png"
       github = "cymack"
       url = "https://rpubs.com/cymack"
-
-    [[params.team.members]]
-      name = "Clara Wang"
-      position = "Civis Analytics"
-      img = "logo.png"
-      github = "cwang23"
-      url = "https://froodypol.wordpress.com/"
-
-    [[params.team.members]]
-      name = "Belinda Chen"
-      position = ""
-      img = "logo.png"
       
 # Join us section
   [params.joinus]
-  enable = true
+  enable = false
   title = "Join us!"
   text = "Applications for the Chicago R Unconference are now open! Please [apply here](https://docs.google.com/forms/d/1Vc8jHxXlZ_ZDzRNFX5eX58avS66fA_ayX1p3FyfO_e4). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 16, 2019**."
 
