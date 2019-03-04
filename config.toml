@@ -386,7 +386,7 @@ googleAnalytics = ""
 
     [[params.team.members]]
       name = "Belinda Chen"
-      position = ""
+      position = "Centene Corporation"
       img = "belinda-chen.jpg"
 
     [[params.team.members]]
