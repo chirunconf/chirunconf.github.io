@@ -398,8 +398,9 @@ googleAnalytics = ""
 
     [[params.team.members]]
       name = "Sydney Purdue"
-      position = "R-Ladies Chicago"
-      img = "logo.png"
+      position = "Cook County Sheriff's Office"
+      img = "sydney-purdue.jpg"
+      twitter = "Sydney_NotAUS"
       github = "skpurdue"
       url = "sydneykpurdue.wordpress.com"
 
@@ -418,9 +419,9 @@ googleAnalytics = ""
       
 # Join us section
   [params.joinus]
-  enable = false
+  enable = true
   title = "Join us!"
-  text = "Applications for the Chicago R Unconference are now open! Please [apply here](https://docs.google.com/forms/d/1Vc8jHxXlZ_ZDzRNFX5eX58avS66fA_ayX1p3FyfO_e4). Attendees will be a mix of community-based invitations and self-nominations, modeled after the rOpenSci unconference. The deadline for applications is **midnight CST on February 16, 2019**."
+  text = "Applications for the Chicago R Unconference closed at **midnight CST on February 16, 2019**. We hope to see you at next year's unconf!"
 
 # Venue section
   [params.venue]
