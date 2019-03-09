@@ -14,6 +14,8 @@ Chicago R Unconference participants agree to:
 
 If you experience or witness unacceptable behavior or have any other concerns, please report Code of Conduct violations to event organizers Angela Li, Emily Riederer, or Alex Hayes. You can email the three of us at chirunconf [at] gmail.com.
 
+Additionally, we have an anonymous reporting form you can use [here](https://docs.google.com/forms/d/1bFt5DkE5cANk6WzoNh_OcyaglHO1k2pfCOwLVbDkSbg/).
+
 If any attendee engages in harassing behavior, organizers can take action they deem appropriate, including but not limited to warning the offender or asking the offender to leave the unconference. (If you feel you have been unfairly accused of violating this code of conduct, you should report it with a concise description of your grievance.)
 
 The above code of conduct is based on the rOpenSci unconf code of conduct, as used in [ozunconf2018](http://ozunconf18.ropensci.org/coc/). Parts of above text is licensed CC BY-SA 4.0. Credit to [SRCCON](http://srccon.org/). Also inspired by [the Ada Initiative’s “how to design a code of conduct for your community.”](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
