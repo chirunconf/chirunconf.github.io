@@ -177,19 +177,6 @@ googleAnalytics = ""
       url = "https://jdblischak.com/"
     
     [[params.team.members]]
-      name = "Mariah Farbo"
-      position = "UChicago Crime Lab"
-      img = "mariah-farbo.jpg"
-      url = "https://www.mariahfarbo.com/"
-
-    [[params.team.members]]
-      name = "Amir Kazi"
-      position = "Chicago Mayor's Office"
-      img = "amir-kazi.jpg"
-      twitter = "AmirAkhterKazi"
-      github = "amirkazi"
-
-    [[params.team.members]]
       name = "Deblina Mukherjee"
       position = "UChicago"
       img = "deblina-mukherjee.jpeg"
@@ -227,7 +214,7 @@ googleAnalytics = ""
 
     [[params.team.members]]
       name = "Florencia Mangini"
-      position = "Alcatel-Lucent"
+      position = "R-Ladies Chicago"
       img = "florencia-mangini.jpeg"
       twitter = "manginiflor"
       github = "frm1789"
